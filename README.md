@@ -1,3 +1,3 @@
-# actions practica
+# actions practice
 
-una pratica rapida de github
+github basic practice
